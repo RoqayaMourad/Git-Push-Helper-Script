@@ -1,3 +1,2 @@
+*.ps1
 ignorefile.txt
-push-commit-v1.ps1
-push-commit-v2.ps1
