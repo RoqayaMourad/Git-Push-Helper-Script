@@ -1,0 +1,1 @@
+version2: add the powershell script and the shortcut
