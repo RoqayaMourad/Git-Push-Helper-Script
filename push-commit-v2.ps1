@@ -104,7 +104,7 @@ Function ConfirmDialog() {
 }
 
 Set-Location -LiteralPath "D:\Work\powershell\git powershell script\"
-pwd
+
 Write-Host "------------------ Current Status ------------------"
 git status
 Write-Host "------------------ End Current Status ------------------"
