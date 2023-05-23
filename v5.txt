@@ -1,0 +1,1 @@
+try executing the script by double click without the shortcut after editing the path
