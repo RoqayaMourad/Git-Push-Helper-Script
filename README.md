@@ -4,6 +4,8 @@ A small PowerShell script that walks you through staging, committing and pushing
 
 It shows the repository, branch and `git status` first, every confirmation defaults to **No**, and it stops with a nonzero exit code as soon as a Git command fails.
 
+![Guided stage, commit, dry-run and push flow in a demo repository](docs/demo.gif)
+
 ## Requirements
 
 - Windows PowerShell 5.1
