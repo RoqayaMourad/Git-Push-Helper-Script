@@ -1,2 +1,0 @@
-version4: add version2 of the script and make its shortcut
-- when you run the shortcut it gives error so we will run the script using powershell not the shortcut method

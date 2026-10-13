@@ -1,3 +1,0 @@
-the script gives an error "fatal not a git repository (or any of the parent directories) .git"
-so instead of creating a shortcut i can run this command in powershell in the git repositry folder
-".\script.ps1"
